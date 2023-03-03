@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi👋，I'm HAN YAN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a master student at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and the [Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/en).
+My research topics are mainly about automatic songwriting, analyzing the lyrics-melody relationship, and lyrics/melody generation.
 
-A data-driven personal website
+Before the master program, I got my bachelor's degree at [Dalian University of Technology](https://www.dlut.edu.cn/), majored in Computer Science and Technology(Japanese Intensive). At that time, I becomed interested in music and started to imagine creating music by Artificial Intelligence.
+
+My dream is to explore the intrinsic consistency of music notes, human languages, and mathematics. I'd like to fuse the inspiration by human with the "rules" by computer to creative fantasic AI music. 
+
+My research interests includes Deep Learning, Natural Language Processing, Music Information Retrievel, and their application on automatic composition. 
+
+Research Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
