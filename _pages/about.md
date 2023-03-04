@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a master student at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and the [Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/en).
-My research topics are mainly about automatic songwriting, analyzing the lyrics-melody relationship, and lyrics/melody generation.
+My research topics are about automatic songwriting, analyzing the lyrics-melody relationship, and lyrics/melody generation.
 
 Before the master program, I got my bachelor's degree at [Dalian University of Technology](https://www.dlut.edu.cn/), majored in Computer Science and Technology(Japanese Intensive). At that time, I becomed interested in music and started to imagine creating music by Artificial Intelligence.
 
