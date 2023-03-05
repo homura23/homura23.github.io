@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download from here.
+Download from [here]<files/HAN YAN_CV.pdf>.
 
 Education
 ======
