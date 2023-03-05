@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi👋，I'm HAN YAN"
+title: "Hi👋，I'm Han Yan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,4 +28,6 @@ My current research programs show as below:
 * Modeling the Rhyming Words and Storyline for Lyrics Generation of J-pop Songs 
 * Extracting Musical Features from Lyrics Text and Audio for Melody Generation 
 * To be continued...
+
+
 
