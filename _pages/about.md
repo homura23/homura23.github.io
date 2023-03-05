@@ -20,7 +20,8 @@ My research interests includes Deep Learning, Natural Language Processing, Music
 Research Projects
 ======
 **Music Understanding and Music Generation of lyrics and melody**
-I'm working on analyzing the lyrics-melody alignment and lyrics-to-melody generation at present. And I'd like to try melody-to-lyrics generation and multi-language lyrics translation in the future. 
+I'm working on analyzing the lyrics-melody alignment and lyrics-to-melody generation at present. And I'd like to try melody-to-lyrics generation and multi-language lyrics translation in the future.  
+
 &#127932;To sum up, computational musicology is an interesting but challenging interdisciplinary research field but have not been explored well. We need more effects!
 My current research programs show as below:
 
