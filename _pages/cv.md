@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download from here.
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
