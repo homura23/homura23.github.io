@@ -19,12 +19,12 @@ My dream is to **explore the intrinsic consistency of music, human languages, an
 Research Projects
 ======
 **Lyrics Generation**  
-Title: <<Modeling /the Structural and Semantic Features for Japanese Lyrics Generation of J-pop Songs>>  
+Title: 《Modeling the Structural and Semantic Features for Japanese Lyrics Generation of J-pop Songs》  
 Abstract: we propose a Japanese lyrics generation model named Okashi that can generate lyrics with clear structure, high text quality, and conformity to human lyrics writing principles. 
 More detail: (https://link.springer.com/chapter/10.1007/978-981-96-0119-6_31)
 
 **Symbolic Music Generation**
-Title: <<Chord Conditional Automatic Songwriting System with Phrase-Motif Level Alignment>>  
+Title: 《Chord Conditional Automatic Songwriting System with Phrase-Motif Level Alignment》 
 Abstract: This research aims to develop an automatic song generation system that takes chord progression as input to generate lyrics and melody that are aligned in terms of structure and musicality.  
 
 &#127932;To sum up, computational musicology is an interesting but challenging interdisciplinary research field but have not been explored well. We need more effects!
