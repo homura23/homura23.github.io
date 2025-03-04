@@ -18,8 +18,8 @@ My dream is to **explore the intrinsic consistency of music, human languages, an
 
 Research Projects
 ======
-**Lyrics Generation**
-Title: <<Modeling the Structural and Semantic Features for Japanese Lyrics Generation of J-pop Songs>>  
+**Lyrics Generation**  
+Title: <<Modeling /the Structural and Semantic Features for Japanese Lyrics Generation of J-pop Songs>>  
 Abstract: we propose a Japanese lyrics generation model named Okashi that can generate lyrics with clear structure, high text quality, and conformity to human lyrics writing principles. 
 More detail: (https://link.springer.com/chapter/10.1007/978-981-96-0119-6_31)
 
