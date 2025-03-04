@@ -26,6 +26,7 @@ Abstract: we propose a Japanese lyrics generation model named Okashi that can ge
 More detail: (https://link.springer.com/chapter/10.1007/978-981-96-0119-6_31)
 
 **Symbolic Music Generation**
+
 Title: 《Chord Conditional Automatic Songwriting System with Phrase-Motif Level Alignment》 
 
 Abstract: This research aims to develop an automatic song generation system that takes chord progression as input to generate lyrics and melody that are aligned in terms of structure and musicality.  
