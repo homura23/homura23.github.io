@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download from [here](https://github.com/homura23/homura23.github.io/blob/master/files/HAN%20YAN_CV.pdf).
+Download from [here](https://github.com/homura23/homura23.github.io/blob/master/files/CV_HAN.pdf).
 
 Education
 ======
